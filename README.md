@@ -9,8 +9,8 @@ City Forcaster is a gui based weather forcaster application.
 * [Check this](https://github.com/pranayjoshi/City_Forcaster/blob/master/requirements.txt) for packages required, you will install this in **Installation** section.
 
 # Images
-[main_screen](https://github.com/pranayjoshi/City_Forcaster/blob/master/images/main_screen.JPG)
-[final screen](https://github.com/pranayjoshi/City_Forcaster/blob/master/images/final_screen.JPG)
+[!main_screen](https://github.com/pranayjoshi/City_Forcaster/blob/master/images/main_screen.JPG)
+[!final screen](https://github.com/pranayjoshi/City_Forcaster/blob/master/images/final_screen.JPG)
 ## Technology/Languages used:-
 
 **languages used**

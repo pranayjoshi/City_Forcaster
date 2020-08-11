@@ -1,5 +1,6 @@
 # City_Forcaster
-City Forcaster is a gui based weather forcaster application.
+City Forcaster is a gui based weather forcaster application. Made with Python, Javascript.
+Technology used:- HTML, CSS, eel
 
 ## Current stable versions
 [![Alt v1.0](https://img.shields.io/badge/release--1.0-ok-green.svg)](https://github.com/pranayjoshi/City_Forcaster/releases/tag/1.0)  ![licence](https://img.shields.io/github/license/mashape/apistatus.svg)  ![most used lang](https://img.shields.io/github/languages/count/badges/shields.svg)

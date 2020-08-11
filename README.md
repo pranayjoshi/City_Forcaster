@@ -4,11 +4,6 @@ City Forcaster is a gui based weather forcaster application.
 ## Current stable versions
 [![Alt v1.0](https://img.shields.io/badge/release--1.0-ok-green.svg)](https://github.com/pranayjoshi/City_Forcaster/releases/tag/1.0)  ![licence](https://img.shields.io/github/license/mashape/apistatus.svg)
 
-## Live demo
-
-Do you want a live demo before downloding the app.
-
-Here is the [!live demo]()
 ## Requirements
 * use Python 3 or above
 * [Check this](https://github.com/pranayjoshi/City_Forcaster/blob/master/requirements.txt) for packages required, you will install this in **Installation** section.
